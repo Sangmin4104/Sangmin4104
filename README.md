@@ -35,6 +35,8 @@
 
 <br>
 
+---
+
 <h3>📚 Studying 📚</h3>
 <div>
   <img src="https://img.shields.io/badge/typescript-3178C6.svg?style=for-the-badge&logo=TypeScript&logoColor=61DAFB" />&nbsp
