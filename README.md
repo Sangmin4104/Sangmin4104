@@ -1,7 +1,7 @@
 
 <!--<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Developer%20SangMin&fontSize=60" /> -->
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sangmin4104&layout=compact) -->
- ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Welcome%20to%20SamgMin's%20GitHub%20👋&animation=twinkling&fontSize=35&fontAlignY=40&fontAlign=65&height=200)
+ ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Welcome%20to%20SangMin's%20GitHub%20👋&animation=twinkling&fontSize=35&fontAlignY=40&fontAlign=65&height=200)
 <!--![header](https://capsule-render.vercel.app/api?type=slice&color=auto&section=header&text=SangMinHan%20&fontSize=90&height=200)  -->
 
 ## 안녕하세요! 만능이 되고싶은 개발자 한상민입니다!
